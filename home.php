@@ -90,8 +90,8 @@ if(!isset($user_id)){
                             <div class="footer-col">
                                 <h4>contact info</h4>
                                 <ul>
-                                    <li><a> <i class="fas fa-phone"></i> +91-9369023177 </a></li>
-                                    <li><a> <i class="fas fa-phone"></i> +91-9690341779 </a></li>
+                                    <li><a> <i class="fas fa-phone"></i> +91-9********7 </a></li>
+                                    <li><a> <i class="fas fa-phone"></i> +91-9********9 </a></li>
                                     <li><a> <i class="fas fa-envelope"></i> thekulfi.shop@gmail.com </a></li>
                                     <li><a> <i class="fas fa-map-marker-alt"></i> Varanasi, India - 221001 </a></li>
                                 </ul>
