@@ -20,8 +20,8 @@
 
         <div class="box">
             <h3>contact info</h3>
-            <p> <i class="fas fa-phone"></i> +91-9369023177 </p>
-            <p> <i class="fas fa-phone"></i> +91-9690341779 </p>
+            <p> <i class="fas fa-phone"></i> +91-9********7 </p>
+            <p> <i class="fas fa-phone"></i> +91-9********9 </p>
             <p> <i class="fas fa-envelope"></i> thekulfi.shop@gmail.com </p>
             <p> <i class="fas fa-map-marker-alt"></i> Varanasi, India - 221001 </p>
         </div>
